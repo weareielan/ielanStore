@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ielanStore/static/css/main.e6c13ad2.css",
+    "main.js": "/ielanStore/static/js/main.87e1be2c.js",
+    "static/js/787.34115356.chunk.js": "/ielanStore/static/js/787.34115356.chunk.js",
+    "index.html": "/ielanStore/index.html",
+    "main.e6c13ad2.css.map": "/ielanStore/static/css/main.e6c13ad2.css.map",
+    "main.87e1be2c.js.map": "/ielanStore/static/js/main.87e1be2c.js.map",
+    "787.34115356.chunk.js.map": "/ielanStore/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87e1be2c.js"
+  ]
+}
